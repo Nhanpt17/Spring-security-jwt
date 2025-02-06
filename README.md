@@ -1,6 +1,3 @@
-README.md của bạn khá rõ ràng, nhưng có một số lỗi ngữ pháp và cách diễn đạt chưa tự nhiên. Dưới đây là bản chỉnh sửa giúp cải thiện độ chính xác và dễ đọc:  
-
----
 
 # **Spring Security JWT**  
 A simple REST API using Spring Security and JWT.  
